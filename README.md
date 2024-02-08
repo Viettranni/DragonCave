@@ -1,12 +1,12 @@
-#Dragon Repeller - Text-based RPG
+# Dragon Repeller - Text-based RPG
 
-##Overview:
+## Overview:
 Dragon Repeller is a text-based RPG game where players embark on a quest to defeat a dragon and save the town. This README provides information on how to set up, play, and contribute to the game.
 
-##Set Up:
+## Set Up:
 To set up the Dragon Repeller game on your local machine:
 
-###Clone the Repository:
+### Clone the Repository:
 ```
 bash
 Copy code
@@ -16,10 +16,10 @@ Open the Game:
 ```
 Open the index.html file in a web browser.
 
-##Play:
+## Play:
 To play the Dragon Repeller game:
 
-###Navigate Through Locations:
+### Navigate Through Locations:
 
 Click the provided buttons (button1, button2, button3) to move between different locations in the game.
 Make Choices:
@@ -30,16 +30,16 @@ Combat:
 Engage in combat by clicking buttons during fights.
 Manage your health, gold, and weapons to survive.
 
-##Additional Information:
-###Player Stats:
+## Additional Information:
+### Player Stats:
 
 Experience points (xp), health points (health), and gold (gold) are crucial for your success.
 Upgrade weapons and manage your inventory to increase your chances in combat.
-Locations:
+### Locations:
 
 Each location offers unique challenges and choices.
 Navigate wisely to progress in your quest.
-Combat:
+### Combat:
 
 Combat involves turn-based attacks and dodges.
 Luck, weapon strength, and health management play key roles.
