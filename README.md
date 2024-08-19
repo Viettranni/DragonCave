@@ -1,4 +1,4 @@
-# Dragon Repeller - Text-based RPG
+# Dragon Cave - Text-based RPG
 
 ## Overview:
 Dragon Repeller is a text-based RPG game where players embark on a quest to defeat a dragon and save the town. This README provides information on how to set up, play, and contribute to the game.
@@ -8,11 +8,8 @@ To set up the Dragon Repeller game on your local machine:
 
 ### Clone the Repository:
 ```
-bash
-Copy code
-git clone https://github.com/your-username/dragon-repeller.git
-cd dragon-repeller
-Open the Game:
+git clone https://github.com/viettranni/DragonCave.git
+
 ```
 Open the index.html file in a web browser.
 
